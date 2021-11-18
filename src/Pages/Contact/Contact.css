@@ -1,0 +1,10 @@
+.submit-btn {
+	background-color: rgb(153, 136, 88) !important;
+	border: none !important;
+	outline: none;
+}
+
+.submit-btn:hover {
+	background-color: rgb(148, 104, 9) !important;
+	font-weight: bolder;
+}

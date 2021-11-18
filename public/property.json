@@ -1,0 +1,107 @@
+[
+	{
+		" key": 1,
+		"name": "Luxury House",
+		"image": "https://i.ibb.co/G9f9FkJ/room1.jpg",
+		"price": "$230,0000",
+		"bed": "5 Bed",
+		"bath": "2 Bath",
+		"unit": "1012 sq ft"
+	},
+	{
+		" key": 2,
+		"name": "Family Apartment",
+		"image": "https://i.ibb.co/WVbMHKw/room2.jpg",
+		"price": "$230,0000",
+		"bed": "6 Bed",
+		"bath": "3 Bath",
+		"unit": "2012 sq ft"
+	},
+	{
+		" key": 3,
+		"name": "Luxury Condo",
+		"image": "https://i.ibb.co/qCgjsGB/room3.jpg",
+		"price": "$230,0000",
+		"bed": "7 Bed",
+		"bath": "4 Bath",
+		"unit": "2074 sq ft"
+	},
+	{
+		" key": 4,
+		"name": "Villa House",
+		"image": "https://i.ibb.co/mqtF5XF/room11.jpg",
+		"price": "$230,0000",
+		"bed": "7 Bed",
+		"bath": "4 Bath",
+		"unit": "1074 sq ft"
+	},
+	{
+		" key": 5,
+		"name": "Grand Plaza",
+		"image": "https://i.ibb.co/TY1t0Gk/room4.jpg",
+		"price": "$230,0000",
+		"bed": "7 Bed",
+		"bath": "4 Bath",
+		"unit": "1074 sq ft"
+	},
+	{
+		" key": 6,
+		"name": "Modern House",
+		"image": "https://i.ibb.co/bgxBWhH/room12.jpg",
+		"price": "$230,0000",
+		"bed": "7 Bed",
+		"bath": "4 Bath",
+		"unit": "1245 sq ft"
+	},
+	{
+		" key": 7,
+		"name": "Lusxury House",
+		"image": "https://i.ibb.co/vVRKrkw/room5.jpg",
+		"price": "$230,0000",
+		"bed": "3 Bed",
+		"bath": "2 Bath",
+		"unit": "1660 sq ft"
+	},
+	{
+		" key": 8,
+		"name": "Urban Center",
+		"image": "https://i.ibb.co/Sd5Dh5C/room6.jpg",
+		"price": "$230,0000",
+		"bed": "5 Bed",
+		"bath": "3 Bath",
+		"unit": "1774 sq ft"
+	},
+	{
+		" key": 9,
+		"name": "Loft Yards",
+		"image": "https://i.ibb.co/ggPP9PJ/room8.jpg",
+		"price": "$230,0000",
+		"bed": "2 Bed",
+		"bath": "2 Bath",
+		"unit": "2074 sq ft"
+	},
+	{
+		" key": 10,
+		"name": "Summer Hills",
+		"image": "https://i.ibb.co/1vCFP2G/room9.jpg",
+		"price": "$230,0000",
+		"bed": "4 Bed",
+		"bath": "2 Bath",
+		"unit": "1043 sq ft"
+	},
+	{
+		" key": 11,
+		"name": "Plaza West",
+		"image": "https://i.ibb.co/8BDq534/room10.jpg",
+		"price": "$230,0000",
+		"bed": "4 Bed",
+		"bath": "2 Bath",
+		"unit": "798 sq ft"
+	}
+]
+
+// https://i.ibb.co/yWHqpX7/room13.jpg
+// https://i.ibb.co/Mknn0k1/room14.jpg
+// https://i.ibb.co/g9DxRB0/room15.jpg
+// https://i.ibb.co/7kVjChv/room16.jpg
+// https://i.ibb.co/Vm7pD9L/room17.jpg
